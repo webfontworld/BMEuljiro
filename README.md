@@ -9,11 +9,11 @@
     font-family: 'BMEuljiro';
     font-weight: normal;
     font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/BMEuljiro10years/BMEuljiro.eot');
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/BMEuljiro10years/BMEuljiro.eot?#iefix') format('embedded-opentype'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/BMEuljiro10years/BMEuljiro.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/BMEuljiro10years/BMEuljiro.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/BMEuljiro10years/BMEuljiro.ttf') format("truetype");
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/BMEuljiro/BMEuljiro.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/BMEuljiro/BMEuljiro.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/BMEuljiro/BMEuljiro.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/BMEuljiro/BMEuljiro.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/BMEuljiro/BMEuljiro.ttf') format("truetype");
     font-display: swap;
 } 
 </pre>
